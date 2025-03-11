@@ -31,8 +31,8 @@ echo -e '\033[31;40;1m
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⢦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⠟⠋⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠲⠤⠤⢤⣄⣀⣀⣀⣀⣀⣀⣠⣤⣤⣤⡤⠶⠶⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  -----------------------------------------------------------------------------------------REWIX----------------------------------------------------------------------------- v4
-  Coded by RewixHacking
-  github: https://github.com/RewixHacking
+  Coded by RewixTool
+  github: https://github.com/RewixTool
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m RewixHacking
 
 \e[37m[1]\e[36m PEK YAKINDA...     \e[37m[2]\e[36m TEL NO DAN TELEFON ÇÖKERTME				
@@ -57,13 +57,13 @@ clear
 
 echo -e "\033[47;31;5m SİSTEME GİRİLİYOR...\033[0m"
 sleep 5
-https://github.com/rewixbaba/RewixHacking.git
-cd RewixHacking
+https://github.com/rewixtool/rewixadminpanel.git
+cd Rewixadminpanel
 pip3 install -r requirements.txt
 clear
 echo -e "\033[47;3;35m SİSTEME GİRİLİYOR...\033[0m"
 sleep 3
-rewixhacking.sh
+rewixadminpanel.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
@@ -128,7 +128,7 @@ echo "TELEGRAM: @HicSin"
 python3 -m webbrowser TELEGRAM: @HicSin
 sleep 10
 echo "Prisni 10 sekonda"
-bash rewixhacking.sh
+bash rewixadminpanel.sh
 
  
 elif [[ $islem == 8 || $islem == 08 ]]; then
@@ -141,7 +141,7 @@ git clone https://github.com/perviz19/EchoPhish.git
 cd EchoPhish
 bash EchoPhish
 
-bash rewixhacking.sh
+bash rewixadminpanel.sh
 
 elif [[ $islem == 9 || $islem == 09 ]]; then
 clear
@@ -268,5 +268,5 @@ else
         echo -e '\033[36;40;1m Keni futur kodin e gabuar'	
 	sleep 1
 	clear 
-	bash rewixhacking.sh
+	bash rewixadminpanel.sh
 fi
