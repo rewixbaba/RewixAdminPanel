@@ -7,8 +7,8 @@ sadece eğitim amaçlı yazılmıştır. sorumluluk alınmaz!!
 
 # nasıl kurulur
 
-git clone https://github.com/rewixtool/RewixAdminPanel.git
+*git clone https://github.com/rewixtool/RewixAdminPanel.git*
 
-cd RewixAdminPanel
+*cd RewixAdminPanel*
 
-bash rewixadminpanel.sh
+*bash rewixadminpanel.sh*
